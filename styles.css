@@ -280,9 +280,8 @@ body {
 
 #sg-viewport {
   border: 0;
-  x-margin: 0 auto;
   height: 100vh;
-  width: 100vw;
+  x-margin: 0 auto;
   float: left; }
   #sg-viewport.hay-mode {
     -webkit-transition: all 40s linear;
