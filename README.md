@@ -10,6 +10,12 @@ You are looking my first Electron app, which is a wrapper for <a href="http://br
 - Includes scripts inline
 - Inspect + Developer Tools baked in
 
+To build macOS .app, use this:
+
+```bash
+sudo rm -rf ish-darwin-* && electron-packager . "ish" --platform=darwin --overwrite
+```
+
 ## What
 <strong><a href="http://bradfrostweb.com/demo/ish/">View Demo</a></strong>. ish. is yet another viewport resizer. What's with the name, you ask? Small-ish. Medium-ish. Large-ish. That's the idea. Many have long been preaching to <a href="http://www.netmagazine.com/tutorials/determining-breakpoints-responsive-design">let content, not device widths determine breakpoints</a> in responsive designs, so rather than determining several fixed breakpoints, ish. roughs out general ranges in order to better serve the <a href="http://static.lukew.com/unified_device_design.png">entire resolution spectrum</a>. 
 
