@@ -1,0 +1,27 @@
+{
+  "name": "ish.",
+  "version": "1.0.0",
+  "description": "ish. is yet another viewport resizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/bradfrost/ish.",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "~1.7.8",
+    "electron-debug": "^1.4.0"
+  },
+  "dependencies": {
+    "electron-context-menu": "^0.9.1"
+  }
+}
