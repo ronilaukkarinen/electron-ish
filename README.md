@@ -2,7 +2,7 @@
 
 You are looking my first Electron app, which is a wrapper for <a href="http://bradfrostweb.com/demo/ish/">Brad Frost's ish. responsive testing tool</a>. Read more below.
 
-![Screenshot (Screenshot)](https://rolle.wtf/ish.png "Screenshot")
+![Screenshot (Screenshot)](https://rolle.wtf/ish-2.png "Screenshot")
 
 ## Features
 
